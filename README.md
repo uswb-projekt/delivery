@@ -1,4 +1,4 @@
-# uswb
+# System obsługi zamówień z dostawą
 
 ## Brudnopis
 https://docs.google.com/document/d/1_yS38bcsTMefnQcKZWZIMeikfWNOddROzf7ziSlS2r8/edit?usp=sharing
