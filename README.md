@@ -37,3 +37,4 @@ Dodatkowo, proces finalizuje płatność. Każde zamówienie posiada powiązaną
 ## Diagram przypadków użycia
 <img width="493" height="1131" alt="image" src="https://github.com/user-attachments/assets/faa830de-c21f-45af-a901-c808b99d7d25" />
 
+## Model projektowy w stylu Domain-Driven Design
