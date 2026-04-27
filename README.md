@@ -49,13 +49,18 @@ Dodatkowo, proces finalizuje płatność. Każde zamówienie posiada powiązaną
 
 ### Kontekst Autentykacja
 <img width="762" height="340" alt="autentykacja" src="https://github.com/user-attachments/assets/63b589de-13ba-433f-9d9a-f52fa12bb9a8" />
+<img width="616" height="374" alt="Diagram Przypadków Użycia - Autentykacja" src="https://github.com/user-attachments/assets/e5dca8f6-e8c7-47ef-8f69-a8e25e4c4a24" />
 
 ### Kontekst Marketing
 <img width="719" height="407" alt="marketing" src="https://github.com/user-attachments/assets/dba70d17-ceab-4feb-b0c0-75cace50bf6f" />
+<img width="515" height="293" alt="Diagram Przypadków Użycia - Marketing" src="https://github.com/user-attachments/assets/5f511755-11dd-439e-8162-39485eace9a1" />
 
 ### Kontekst Reklamacja
 <img width="916" height="454" alt="reklamacja" src="https://github.com/user-attachments/assets/3f533d9d-342d-45c0-ab53-b81e55c4d003" />
+<img width="510" height="371" alt="Diagram Przypadków Użycia - Reklamacje" src="https://github.com/user-attachments/assets/1c14bb23-ee55-449a-b141-171883679f0f" />
 
-### Kontekst Restaracje
+### Kontekst Restauracje
 <img width="804" height="423" alt="restauracje" src="https://github.com/user-attachments/assets/2fb57865-b045-4636-bf29-c8d8ee23738a" />
+<img width="495" height="376" alt="Diagram Przypadków Użycia - Restauracje" src="https://github.com/user-attachments/assets/03e5d212-9376-4642-b14b-49f7b31b31e0" />
+
 
