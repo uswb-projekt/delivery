@@ -1,4 +1,3 @@
-<img width="450" height="369" alt="Diagram Przypadków Użycia - Zamówienia" src="https://github.com/user-attachments/assets/f27de419-35a3-4cfa-b67c-5da0bc21db58" />
 # System obsługi zamówień z dostawą
 
 ## Brudnopis
